@@ -1,0 +1,4 @@
+Working directory
+Staging Index
+Local repository
+Remote repository
